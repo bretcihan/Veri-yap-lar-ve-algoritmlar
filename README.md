@@ -16,3 +16,7 @@ Dizi sıralandıktan sonra 18 sayısı Average Case kapsamındadır.
 2.adım [2,3,4,8,7,9,5,15,6]
 3.adım [2,3,4,5,7,9,8,15,6]
 4.adım [2,3,4,5,6,9,8,15,7]
+
+Merge [16,21,11,8,12,22] 
+tek bir eleman kalana kadar bölme büyükler sağa küçükler sola. Ama buraya adım adım uzun olur diye yazmadım
+Big-O gösterimi = O(nlog(n))
